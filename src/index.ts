@@ -19,7 +19,7 @@ while (index < number) {
   index += 1;
 }
 
-const pvp = new PVP(player1, player3);
+const pvp = new PVP(player2, player3);
 
 const pve = new PVE(player1, [monster1, monster2]);
 
